@@ -1,9 +1,7 @@
-require 'nokogiri'
-require 'open-uri'
+require_relative 'headline_scraper'
 
+the_scraper = HeadlineScraper.new('http://www.reddit.com/r/ruby/')
 
-doc = Nokogiri::HTML(open('http://www.reddit.com/r/ruby/'))
-
-doc.css('a.title').each do |heading|
-	puts heading.content
+the_scraper.get_headlines.each do |heading|
+	puts heading["href"]
 end
