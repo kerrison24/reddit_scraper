@@ -1,26 +1,26 @@
-HEADLINE,LINK,SCORE
-The Weirich Fund Sharing Jim's passion through education,https://jim.neo.com/,39
-Is there a technical reason why a class can't include another class?,/r/ruby/comments/21k3qg/is_there_a_technical_reason_why_a_class_cant/,1
-Ruby gem to build generic API consumer?,/r/ruby/comments/21j5q1/ruby_gem_to_build_generic_api_consumer/,5
-How to tune a guitar with Ruby,http://makaroni4.com/ruby/hacking/2014/03/26/how-to-tune-guitar-with-ruby/,26
-Creating a Ruby gem from scratch in less than 20 minutes,https://www.youtube.com/watch?v=sT9rCQV1pRA,13
-Tip: Seamless Restarts with Unicorn and Upstart [x-post],http://orchestrate.io/blog/2014/03/26/tip-seamless-restarts-with-unicorn-and-upstart/,4
-Taking photos with your webcam using Ruby!,http://tenderlovemaking.com/2014/03/26/webcam-photos-with-ruby.html,35
-Work In Progress: an Empirical Study of Static Typing in Ruby,http://www.cs.umd.edu/~jfoster/papers/plateau09-ruby.pdf,6
-What do you think of my Small Reddit Script? Any Thoughts?,/r/ruby/comments/21hv56/what_do_you_think_of_my_small_reddit_script_any/,0
-"RubyConf India - Hospitality was anything but pleasant at The Lalit resort and spa, Goa",http://ajeygore.in/rubyconf/the-lalit-goof-up.html,48
-"Ruby Warrior updated with harder levels, and explosives!",http://blog.bloc.io/2014/03/ruby-warrior-updated-with-harder-levels-and-explosives/?utm_campaign=launchv2&utm_source=reddit&utm_medium=web&utm_term=ruby&utm_content=hyperlink,9
-Build a Ruby Gem is live!,http://brandonhilkert.com/books/build-a-ruby-gem/?utm_source=reddit&utm_medium=social&utm_campaign=launch,0
-Ember-Rails with Devise Authentication,http://kbarrett.com/blog/2014/03/24/authentication-with-ember-rails.html,3
-Draw a Moving line with mouse using Ruby and Gosu gem,http://csnipp.com/s/116/-Draw-a-Moving-line-with-mouse-using-Ruby-and-Gosu-gem,0
-Recommendations based on User Interaction with Ruby,/r/ruby/comments/21dyca/recommendations_based_on_user_interaction_with/,5
-12 small web frameworks for Ruby,http://codecondo.com/12-small-ruby-frameworks/,26
-5 things you should understand about Ruby Variables,http://blog.makeitwithcode.com/2014/03/five-things-you-should-understand-about-Ruby-Variables/,0
-How to Build a Rails Engine,http://brandonhilkert.com/blog/how-to-build-a-rails-engine/?utm_source=reddit&utm_medium=social&utm_campaign=rails-engine,25
-"How to make Rails, Grape and Her work together (with caching!)",http://codetunes.com/2014/how-to-make-rails-grape-and-her-work-together-with-caching/,16
-Question from someone new to Ruby,/r/ruby/comments/21cc15/question_from_someone_new_to_ruby/,2
-On Form object validations,http://crypt.codemancers.com/posts/2013-12-18-form-objects-validations/,8
-Should I use a database?,/r/ruby/comments/21ceb7/should_i_use_a_database/,2
-Has anyone built anything on Assembly Made?,/r/ruby/comments/21bpqf/has_anyone_built_anything_on_assembly_made/,2
-[ANNOUNCE]: Codesake::Dawn v1.0.6 released – Dawn - security ruby code scanner,http://dawn.codesake.com/blog/announce-codesake-dawn-v1-0-6-released,2
-Rake 10.2.0,http://docs.seattlerb.org/rake/History_rdoc.html#label-10.1.2+%2F+2014-03-24,21
+HEADLINE,LINK,SCORE,NUMBER OF COMMENTS
+The Weirich Fund Sharing Jim's passion through education,https://jim.neo.com/,34,1 comment
+Is there a technical reason why a class can't include another class?,/r/ruby/comments/21k3qg/is_there_a_technical_reason_why_a_class_cant/,0,17 comments
+Ruby gem to build generic API consumer?,/r/ruby/comments/21j5q1/ruby_gem_to_build_generic_api_consumer/,5,15 comments
+How to tune a guitar with Ruby,http://makaroni4.com/ruby/hacking/2014/03/26/how-to-tune-guitar-with-ruby/,27,5 comments
+Creating a Ruby gem from scratch in less than 20 minutes,https://www.youtube.com/watch?v=sT9rCQV1pRA,12,comment
+Tip: Seamless Restarts with Unicorn and Upstart [x-post],http://orchestrate.io/blog/2014/03/26/tip-seamless-restarts-with-unicorn-and-upstart/,4,comment
+Taking photos with your webcam using Ruby!,http://tenderlovemaking.com/2014/03/26/webcam-photos-with-ruby.html,34,4 comments
+Work In Progress: an Empirical Study of Static Typing in Ruby,http://www.cs.umd.edu/~jfoster/papers/plateau09-ruby.pdf,6,comment
+What do you think of my Small Reddit Script? Any Thoughts?,/r/ruby/comments/21hv56/what_do_you_think_of_my_small_reddit_script_any/,0,5 comments
+"RubyConf India - Hospitality was anything but pleasant at The Lalit resort and spa, Goa",http://ajeygore.in/rubyconf/the-lalit-goof-up.html,47,6 comments
+"Ruby Warrior updated with harder levels, and explosives!",http://blog.bloc.io/2014/03/ruby-warrior-updated-with-harder-levels-and-explosives/?utm_campaign=launchv2&utm_source=reddit&utm_medium=web&utm_term=ruby&utm_content=hyperlink,9,comment
+Build a Ruby Gem is live!,http://brandonhilkert.com/books/build-a-ruby-gem/?utm_source=reddit&utm_medium=social&utm_campaign=launch,0,6 comments
+Ember-Rails with Devise Authentication,http://kbarrett.com/blog/2014/03/24/authentication-with-ember-rails.html,3,2 comments
+Draw a Moving line with mouse using Ruby and Gosu gem,http://csnipp.com/s/116/-Draw-a-Moving-line-with-mouse-using-Ruby-and-Gosu-gem,0,comment
+Recommendations based on User Interaction with Ruby,/r/ruby/comments/21dyca/recommendations_based_on_user_interaction_with/,5,2 comments
+12 small web frameworks for Ruby,http://codecondo.com/12-small-ruby-frameworks/,25,3 comments
+5 things you should understand about Ruby Variables,http://blog.makeitwithcode.com/2014/03/five-things-you-should-understand-about-Ruby-Variables/,0,2 comments
+How to Build a Rails Engine,http://brandonhilkert.com/blog/how-to-build-a-rails-engine/?utm_source=reddit&utm_medium=social&utm_campaign=rails-engine,25,5 comments
+"How to make Rails, Grape and Her work together (with caching!)",http://codetunes.com/2014/how-to-make-rails-grape-and-her-work-together-with-caching/,16,comment
+Question from someone new to Ruby,/r/ruby/comments/21cc15/question_from_someone_new_to_ruby/,2,6 comments
+On Form object validations,http://crypt.codemancers.com/posts/2013-12-18-form-objects-validations/,8,2 comments
+Should I use a database?,/r/ruby/comments/21ceb7/should_i_use_a_database/,2,7 comments
+Has anyone built anything on Assembly Made?,/r/ruby/comments/21bpqf/has_anyone_built_anything_on_assembly_made/,2,comment
+[ANNOUNCE]: Codesake::Dawn v1.0.6 released – Dawn - security ruby code scanner,http://dawn.codesake.com/blog/announce-codesake-dawn-v1-0-6-released,2,comment
+Rake 10.2.0,http://docs.seattlerb.org/rake/History_rdoc.html#label-10.1.2+%2F+2014-03-24,21,2 comments

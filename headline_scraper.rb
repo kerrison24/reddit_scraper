@@ -10,7 +10,7 @@ class HeadlineScraper
 		@doc.css('a.title')
 	end
 
-	def get_headlines_score
+	def get_headingbox
 		@doc.css('.thing')
 	end
 end
