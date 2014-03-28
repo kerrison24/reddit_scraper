@@ -13,4 +13,8 @@ class HeadlineScraper
 	def get_headingbox
 		@doc.css('.thing')
 	end
+
+	def get_usernum
+		@doc.css('.number')
+	end
 end
