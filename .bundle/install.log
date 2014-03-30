@@ -5,3 +5,10 @@ E, [2014-03-24T12:58:52.567392 #5333] ERROR -- : SystemExit: exit
 I, [2014-03-24T12:59:09.861926 #8889]  INFO -- : 0:  mini_portile (0.5.2) from /home/kerrison/.rvm/gems/ruby-2.0.0-p353/specifications/mini_portile-0.5.2.gemspec
 I, [2014-03-24T13:00:53.161221 #8889]  INFO -- : 0:  nokogiri (1.6.1) from /home/kerrison/.rvm/gems/ruby-2.0.0-p353/specifications/nokogiri-1.6.1.gemspec
 I, [2014-03-24T13:00:53.162710 #8889]  INFO -- : 0:  bundler (1.5.1) from /home/kerrison/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-03-29T16:28:41.758352 #8658]  INFO -- : 0:  multimap (1.1.2) from /home/kerrison/.rvm/gems/ruby-2.0.0-p353/specifications/multimap-1.1.2.gemspec
+I, [2014-03-29T16:28:49.914572 #8658]  INFO -- : 0:  mime-types (2.2) from /home/kerrison/.rvm/gems/ruby-2.0.0-p353/specifications/mime-types-2.2.gemspec
+I, [2014-03-29T16:29:01.047202 #8658]  INFO -- : 0:  rest-client (1.6.7) from /home/kerrison/.rvm/gems/ruby-2.0.0-p353/specifications/rest-client-1.6.7.gemspec
+I, [2014-03-29T16:29:01.101577 #8658]  INFO -- : 0:  mailgun (0.7) from /home/kerrison/.rvm/gems/ruby-2.0.0-p353/bundler/gems/mailgun-37e4c2cd4195/mailgun.gemspec
+I, [2014-03-29T16:29:01.101973 #8658]  INFO -- : 0:  mini_portile (0.5.2) from /home/kerrison/.rvm/gems/ruby-2.0.0-p353/specifications/mini_portile-0.5.2.gemspec
+I, [2014-03-29T16:29:01.102247 #8658]  INFO -- : 0:  nokogiri (1.6.1) from /home/kerrison/.rvm/gems/ruby-2.0.0-p353/specifications/nokogiri-1.6.1.gemspec
+I, [2014-03-29T16:29:01.102506 #8658]  INFO -- : 0:  bundler (1.5.1) from /home/kerrison/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
