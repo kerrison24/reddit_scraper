@@ -28,7 +28,7 @@ end
 
 #sending email with csv attached
 parameters = {
-  :to => "kerrisongarcia@gmail.com",
+  :to => "email@gmail.com",
   :subject => "Recent /r/ruby posts",
   :text => "Here is the most recent 25 posts from reddit/r/ruby. It contains the title, link of the thread or article, number of upvotes and number of comments.",
   :from => "kerrisongarcia@sandbox92031.mailgun.org",

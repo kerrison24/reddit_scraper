@@ -1,27 +1,27 @@
 TOP RECENT RUBY POSTS OF TODAY
 "",HEADLINE,LINK,SCORE,NUMBER OF COMMENTS
-1,Let's Not - RSpec best practices,http://robots.thoughtbot.com/lets-not,18,2 comments
-2,Sidekiq 3.0 released,http://www.mikeperham.com/2014/03/28/sidekiq-3-0/,37,4 comments
-3,Applying Design Patterns To Ruby - Making our deck of cards more beautiful still using Value objects and Confident Ruby,http://rubylove.io/design_patterns/2014/03/29/applying-design-patterns-to-ruby/,0,2 comments
-4,Small stack based calculator written in Ruby,/r/ruby/comments/21nw0d/small_stack_based_calculator_written_in_ruby/,2,2 comments
-5,Ruby Garbage Collection: Still Not Ready for Production,http://www.omniref.com/blog/blog/2014/03/27/ruby-garbage-collection-still-not-ready-for-production/,21,26 comments
-6,Simple Twitter Follow Unfollow Bot in Ruby,http://sourcey.com/twitter-follow-unfollow-retweeter-ruby-bot/,1,comment
-7,Rubymine Solarized Colors,https://github.com/craescu/rubymine-solarized,1,comment
-8,Different Ways to Set Attributes in ActiveRecord,http://www.davidverhasselt.com/set-attributes-in-activerecord/,3,1 comment
-9,Code Katas: for Novice and Advanced Rubyists alike!,http://www.codewars.com/r/wknbXw,0,comment
-10,7 slow and painful deaths by regexp,http://blog.8thcolor.com/en/2014/03/7-slow-and-painful-deaths-by-regexp/,7,5 comments
-11,"Brace Yourselves, RubyConf Portugal is coming!",http://blog.groupbuddies.com/posts/31-brace-yourselves-rubyconf-pt-is-coming,1,comment
-12,Is Ruby fast yet?,http://www.isrubyfastyet.com/,0,4 comments
-13,mini wiki,/r/ruby/comments/21lqg3/mini_wiki/,1,1 comment
-14,A little git help? Updating a gem from a forked version?,/r/ruby/comments/21lncv/a_little_git_help_updating_a_gem_from_a_forked/,1,5 comments
-15,capistrano-ci gem v0.0.4 now supports capistrano 2 and 3,https://github.com/railsware/capistrano-ci,1,comment
-16,Rails 'generate' limitations,/r/ruby/comments/21lev1/rails_generate_limitations/,0,5 comments
-17,The Weirich Fund Sharing Jim's passion through education,https://jim.neo.com/,44,1 comment
-18,Creating a Ruby gem from scratch in less than 20 minutes,https://www.youtube.com/watch?v=sT9rCQV1pRA,19,1 comment
-19,Ruby gem to build generic API consumer?,/r/ruby/comments/21j5q1/ruby_gem_to_build_generic_api_consumer/,5,15 comments
-20,How to tune a guitar with Ruby,http://makaroni4.com/ruby/hacking/2014/03/26/how-to-tune-guitar-with-ruby/,26,5 comments
-21,the top reason why ruby will never be the most popular language,/r/ruby/comments/21lo40/the_top_reason_why_ruby_will_never_be_the_most/,0,3 comments
-22,Tip: Seamless Restarts with Unicorn and Upstart [x-post],http://orchestrate.io/blog/2014/03/26/tip-seamless-restarts-with-unicorn-and-upstart/,4,comment
-23,Is there a technical reason why a class can't include another class?,/r/ruby/comments/21k3qg/is_there_a_technical_reason_why_a_class_cant/,0,20 comments
-24,Taking photos with your webcam using Ruby!,http://tenderlovemaking.com/2014/03/26/webcam-photos-with-ruby.html,38,4 comments
-25,Work In Progress: an Empirical Study of Static Typing in Ruby,http://www.cs.umd.edu/~jfoster/papers/plateau09-ruby.pdf,5,comment
+1,Ruby speed hacks quiz,http://homeonrails.com/2014/03/ruby-speed-quiz/,21,5 comments
+2,The /o modifier in Ruby regular expressions,http://robm.me.uk/ruby/2014/03/30/regex-o-modifier.html,8,4 comments
+3,"Priscilla, frock up your console messages",https://github.com/Arkham/priscilla,9,2 comments
+4,"Hey Rubygems, do not include your stuff implicitly (and don't class_eval Class!)",http://jipiboily.com/hey-rubygems-do-not-include-your-stuff-implicitly-and-don-t-class_eval-class,0,1 comment
+5,TDDing Pat Shaughnessy's Ask Don't Tell Prefer The Declarative Over The Imperative Ruby Functional Programming Example TDD Style!,http://rubylove.io/functional_ruby/2014/03/30/tdding-patshaughnessys-ask-dont-tell/,2,2 comments
+6,Let's Not - RSpec best practices,http://robots.thoughtbot.com/lets-not,38,3 comments
+7,Sidekiq 3.0 released,http://www.mikeperham.com/2014/03/28/sidekiq-3-0/,43,4 comments
+8,Applying Design Patterns To Ruby - Making our deck of cards more beautiful still using Value objects and Confident Ruby,http://rubylove.io/design_patterns/2014/03/29/applying-design-patterns-to-ruby/,1,4 comments
+9,Small stack based calculator written in Ruby,/r/ruby/comments/21nw0d/small_stack_based_calculator_written_in_ruby/,3,2 comments
+10,Simple Twitter Follow Unfollow Bot in Ruby,http://sourcey.com/twitter-follow-unfollow-retweeter-ruby-bot/,2,comment
+11,Ruby Garbage Collection: Still Not Ready for Production,http://www.omniref.com/blog/blog/2014/03/27/ruby-garbage-collection-still-not-ready-for-production/,25,26 comments
+12,Rubymine Solarized Colors,https://github.com/craescu/rubymine-solarized,2,comment
+13,Different Ways to Set Attributes in ActiveRecord,http://www.davidverhasselt.com/set-attributes-in-activerecord/,5,1 comment
+14,Code Katas: for Novice and Advanced Rubyists alike!,http://www.codewars.com/r/wknbXw,1,comment
+15,7 slow and painful deaths by regexp,http://blog.8thcolor.com/en/2014/03/7-slow-and-painful-deaths-by-regexp/,8,5 comments
+16,mini wiki,/r/ruby/comments/21lqg3/mini_wiki/,4,1 comment
+17,"Brace Yourselves, RubyConf Portugal is coming!",http://blog.groupbuddies.com/posts/31-brace-yourselves-rubyconf-pt-is-coming,1,comment
+18,Is Ruby fast yet?,http://www.isrubyfastyet.com/,0,4 comments
+19,A little git help? Updating a gem from a forked version?,/r/ruby/comments/21lncv/a_little_git_help_updating_a_gem_from_a_forked/,1,5 comments
+20,capistrano-ci gem v0.0.4 now supports capistrano 2 and 3,https://github.com/railsware/capistrano-ci,1,comment
+21,Rails 'generate' limitations,/r/ruby/comments/21lev1/rails_generate_limitations/,0,5 comments
+22,The Weirich Fund Sharing Jim's passion through education,https://jim.neo.com/,42,1 comment
+23,Creating a Ruby gem from scratch in less than 20 minutes,https://www.youtube.com/watch?v=sT9rCQV1pRA,21,1 comment
+24,Ruby gem to build generic API consumer?,/r/ruby/comments/21j5q1/ruby_gem_to_build_generic_api_consumer/,5,15 comments
+25,How to tune a guitar with Ruby,http://makaroni4.com/ruby/hacking/2014/03/26/how-to-tune-guitar-with-ruby/,29,5 comments
